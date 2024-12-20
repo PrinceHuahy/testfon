@@ -26,7 +26,7 @@ This process will take approximately 2 to 10 minutes, depending on the user's co
 
 ## Tutorial
 
-Usage and examples of Fountain's main functions are showed in [tutorial](https://github.com/BioX-NKU/Fountain/Tutorials).
+Usage and examples of Fountain's main functions are showed in [tutorial](https://github.com/PrinceHuahy/testfon/Tutorials/).
 
 
 
